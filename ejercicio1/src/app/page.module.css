@@ -1,0 +1,45 @@
+.main{
+  text-align: center;
+  align-items: center;
+  padding-top: 50px;
+  min-height: 100vh;
+  background-color: rgb(83, 148, 126);
+}
+
+.titulo{
+  color: rgb(0, 0, 0);
+  padding-bottom: 30px;
+}
+
+#aumentar{
+  background-color: #4CAF50;  
+  color: white;               
+  font-size: 16px;            
+  padding: 10px 20px; 
+  margin-right: 10px;
+  border: none;               
+  border-radius: 5px;         
+  cursor: pointer;           
+}
+
+#resetear{
+  background-color: #798079;  
+  color: white;               
+  font-size: 16px;            
+  padding: 10px 20px;  
+  margin-right: 10px;     
+  border: none;               
+  border-radius: 5px;         
+  cursor: pointer;           
+}
+
+#disminuir{
+  background-color: #e43e3e;  
+  color: white;               
+  font-size: 16px;            
+  padding: 10px 20px;  
+  margin-right: 10px;      
+  border: none;               
+  border-radius: 5px;         
+  cursor: pointer;           
+}
